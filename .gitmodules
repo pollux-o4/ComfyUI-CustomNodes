@@ -1,0 +1,4 @@
+[submodule "RemoteWorker"]
+	path = RemoteWorker
+	url = https://github.com/pollux-o4/RemoteWorker.git
+	branch = user
